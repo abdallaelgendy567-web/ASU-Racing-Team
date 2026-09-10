@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/258383e6-c892-4618-ad03-c43058bdf8d0
+
 <div align="center">
 
 # 🏎️ ASU Racing Team - STM32 Low Voltage Controller
@@ -28,6 +32,10 @@ The complete hardware design architecture for the STM32-based controller, meticu
 | *Circuit Architecture* | *Copper Traces* | *Final 3D Overview* |
 
 ---
+
+
+https://github.com/user-attachments/assets/e00df9db-ebab-4cea-9730-7a44035782d5
+
 
 ---
 
