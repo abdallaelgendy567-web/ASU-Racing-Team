@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/258383e6-c892-4618-ad03-c43058bdf8d0
-
 <div align="center">
 
 # 🏎️ ASU Racing Team - STM32 Low Voltage Controller
