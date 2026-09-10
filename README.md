@@ -12,23 +12,6 @@
 
 ---
 
-## 🚀 Milestone 1: Firmware & Simulation (STM32 Blinking LED)
-This section demonstrates the fundamental GPIO configuration and hardware simulation of an **STM32F103 (Blue Pill)**.
-
-### 🛠️ Technical Details
-- **Environment:** Code generated and compiled via STM32CubeIDE (`main.c`, `.ioc`).
-- **Configuration:** `PC13` configured as `GPIO_Output` using STM32 HAL Libraries.
-- **Simulation:** Real-time execution and waveform analysis in Proteus (using the compiled `.hex` file).
-
-### 📸 Simulation Preview
-
-| Proteus Circuit & Oscilloscope | Live Simulation Video |
-| :---: | :---: |
-| <img src="STM32_LED_M1/Pic1.png" width="450"> | <video src="STM32_LED_M1/Video.mp4" width="450" controls></video> |
-| *Square wave generation analyzing HIGH/LOW states* | *Click to play the hardware simulation record* |
-
----
-
 ## ⚡ Hardware Development: Custom PCB Design
 The complete hardware design architecture for the STM32-based controller, meticulously routed and prepared for manufacturing.
 
@@ -45,6 +28,24 @@ The complete hardware design architecture for the STM32-based controller, meticu
 | *Circuit Architecture* | *Copper Traces* | *Final 3D Overview* |
 
 ---
+
+---
+
+## 🚀 Milestone 1: Firmware & Simulation (STM32 Blinking LED)
+This section demonstrates the fundamental GPIO configuration and hardware simulation of an **STM32F103 (Blue Pill)**.
+
+### 🛠️ Technical Details
+- **Environment:** Code generated and compiled via STM32CubeIDE (`main.c`, `.ioc`).
+- **Configuration:** `PC13` configured as `GPIO_Output` using STM32 HAL Libraries.
+- **Simulation:** Real-time execution and waveform analysis in Proteus (using the compiled `.hex` file).
+
+### 📸 Simulation Preview
+
+| Proteus Circuit & Oscilloscope | Live Simulation Video |
+| :---: | :---: |
+| <img src="STM32_LED_M1/Pic1.png" width="450"> | <video src="STM32_LED_M1/Video.mp4" width="450" controls></video> |
+| *Square wave generation analyzing HIGH/LOW states* | *Click to play the hardware simulation record* |
+
 
 <div align="center">
 <b>Engineered with 💡 by Abdullah Elgendy</b> <br>
