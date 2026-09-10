@@ -14,13 +14,13 @@ This project contains the complete hardware design files for the STM32-based Low
 ## 🖼️ Project Previews
 
 ### 1. PCB Layout
-![PCB Layout](Layout.png)
+![PCB Layout](PCB/Layout.png)
 
 ### 2. Board View
-![PCB View](PCB.png)
+![PCB View](PCB/PCB.png)
 
 ### 3. Schematic Design
-![Schematic](Schematic.png)
+![Schematic](PCB/Schematic.png)
 
 ---
 *Designed for ASU Racing Team.*
