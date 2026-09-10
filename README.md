@@ -36,7 +36,7 @@ This section demonstrates the fundamental GPIO configuration and hardware simula
 
 ### 🛠️ Technical Details
 - **Environment:** Code generated and compiled via STM32CubeIDE (`main.c`, `.ioc`).
-- **Configuration:** `PC13` configured as `GPIO_Output` using STM32 HAL Libraries.
+- **Configuration:** `PB12` configured as `GPIO_Output` using STM32 HAL Libraries.
 - **Simulation:** Real-time execution and waveform analysis in Proteus (using the compiled `.hex` file).
 
 ### 📸 Simulation Preview
