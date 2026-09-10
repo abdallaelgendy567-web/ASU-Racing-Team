@@ -43,7 +43,7 @@ This section demonstrates the fundamental GPIO configuration and hardware simula
 
 | Proteus Circuit & Oscilloscope | Live Simulation Video |
 | :---: | :---: |
-| <img src="STM32_LED_M1/Pic1.png" width="450"> | <video src="STM32_LED_M1/Video.mp4" width="450" controls></video> |
+| <img src="Milestones/Milestone1/Pic1.png" width="450"> | <video src="Milestones/Milestone1/Video.mp4" width="450" controls></video> |
 | *Square wave generation analyzing HIGH/LOW states* | *Click to play the hardware simulation record* |
 
 
