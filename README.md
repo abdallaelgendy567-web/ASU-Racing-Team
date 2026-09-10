@@ -34,11 +34,6 @@ The complete hardware design architecture for the STM32-based controller, meticu
 ---
 
 
-https://github.com/user-attachments/assets/e00df9db-ebab-4cea-9730-7a44035782d5
-
-
----
-
 ## 🚀 Milestone 1: Firmware & Simulation (STM32 Blinking LED)
 This section demonstrates the fundamental GPIO configuration and hardware simulation of an **STM32F103 (Blue Pill)**.
 
@@ -51,7 +46,7 @@ This section demonstrates the fundamental GPIO configuration and hardware simula
 
 | Proteus Circuit & Oscilloscope | Live Simulation Video |
 | :---: | :---: |
-| <img src="Milestones/Milestone 1/Pic1.png" width="450"> | <video src="Milestones/Milestone 1/Video.mp4" width="450" controls></video> |
+| <img src="Milestones/Milestone 1/Pic1.png" width="450"> | <video src="https://github.com/user-attachments/assets/e00df9db-ebab-4cea-9730-7a44035782d5" width="450" controls></video> |
 | *Square wave generation analyzing HIGH/LOW states* | *Click to play the hardware simulation record* |
 
 
